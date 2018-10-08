@@ -1,0 +1,14 @@
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\obj\x86\Debug\CSharp.QuizMe.csprojAssemblyReference.cache
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\obj\x86\Debug\QuizDotMeI3.About.resources
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\obj\x86\Debug\QuizDotMeI3.MainMenu.resources
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\obj\x86\Debug\QuizDotMeI3.QuestionGUI.resources
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\obj\x86\Debug\QuizDotMeI3.Error.resources
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\obj\x86\Debug\QuizDotMeI3.Results.resources
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\obj\x86\Debug\QuizDotMeI3.Saving.resources
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\obj\x86\Debug\CSharp.QuizMe.csproj.GenerateResource.cache
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\obj\x86\Debug\CSharp.QuizMe.csproj.CoreCompileInputs.cache
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\bin\Debug\QuizMe.exe
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\bin\Debug\QuizMe.pdb
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\obj\x86\Debug\QuizMe.Properties.Resources.resources
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\obj\x86\Debug\QuizMe.exe
+C:\Users\kiera\Desktop\submitGithub\inputFiles\quizMeFinal\Quiz.Me-I4\Quiz.Me-I4\obj\x86\Debug\QuizMe.pdb

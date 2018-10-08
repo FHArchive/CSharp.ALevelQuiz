@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.ALevelQuiz", "CSharp.ALevelQuiz\CSharp.ALevelQuiz.csproj", "{74902C23-7729-42D3-A76A-B33D4C8253BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74902C23-7729-42D3-A76A-B33D4C8253BA}.Debug|x86.ActiveCfg = Debug|x86
+		{74902C23-7729-42D3-A76A-B33D4C8253BA}.Debug|x86.Build.0 = Debug|x86
+		{74902C23-7729-42D3-A76A-B33D4C8253BA}.Release|x86.ActiveCfg = Release|x86
+		{74902C23-7729-42D3-A76A-B33D4C8253BA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {649EE30C-95CC-485C-91C4-D373197A7E1F}
+	EndGlobalSection
+EndGlobal
